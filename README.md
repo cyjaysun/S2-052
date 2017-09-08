@@ -1,8 +1,8 @@
 # S2-052（CVE-2017-9805）
-struts2 052远程代码执行漏洞POC利用（影响版本：Struts 2.1.2 - Struts 2.3.33, Struts 2.5 - Struts 2.5.12）
-官方介绍：https://cwiki.apache.org/confluence/display/WW/S2-052
-此POC是在struts-2.5.12版本测试验证的。
-1、搭建测试环境
+struts2 052远程代码执行漏洞POC利用（影响版本：Struts 2.1.2 - Struts 2.3.33, Struts 2.5 - Struts 2.5.12）<br/>
+官方介绍：https://cwiki.apache.org/confluence/display/WW/S2-052<br/>
+此POC是在struts-2.5.12版本测试验证的。<br/>
+1、搭建测试环境<br/>
 下载struts2.5.12版本：http://archive.apache.org/dist/struts/2.5.12/
 下载apache-tomcat 这里用的是8.5.20版，这是绿色非安装板，配置即可使用，具体配置网上很多资料可参考这里不介绍。
 将struts2-rest-showcase.war放到webapps目录下。conf目录下server.xml默认配置如下：
