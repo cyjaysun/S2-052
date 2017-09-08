@@ -25,7 +25,7 @@ struts2 052远程代码执行漏洞POC利用（影响版本：Struts 2.1.2 - Str
 然后访问http://127.0.0.1:8080/struts2-rest-showcase/orders.xhtml <br/>
 如果上述都顺利的话可以看到Orders可编辑界面，下面是POC测试过程。<br/>
 点击编辑，进入到修改界面，点击"提交"抓包，然后修改Content-Type为application/xml格式，post数据替换为poc中data提交即可弹计算器了。<br/>
-##### Notes:<br/>
+##### Notes<br/>
 Windows下关键字为：<br/>
 <command>											<string>calc</string>										</command><br/>
 Mac下关键字为：<br/>
