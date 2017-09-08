@@ -32,3 +32,4 @@ Mac下关键字为：<br/>
 <command>
 <string>/Applications/Calculator.app/Contents/MacOS/Calculator</string>
 </command><br/>
+![](S2-052/img/calc.jpg)
