@@ -32,4 +32,3 @@ Mac下关键字为：<br/>
 <command>
 <string>/Applications/Calculator.app/Contents/MacOS/Calculator</string>
 </command><br/>
-![弹计算器](https://github.com/cyjaysun/S2-052/blob/master/img/calc.jpg)
