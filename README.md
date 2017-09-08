@@ -32,4 +32,4 @@ Mac下关键字为：<br/>
 <command>
 <string>/Applications/Calculator.app/Contents/MacOS/Calculator</string>
 </command><br/>
-![calc](https://raw.githubusercontent.com/cyjaysun/S2-052/master/img/calc.jpg)
+
